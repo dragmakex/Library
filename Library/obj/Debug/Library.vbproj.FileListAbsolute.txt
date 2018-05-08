@@ -1,0 +1,11 @@
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\bin\Debug\Library.exe.config
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\obj\Debug\Library.vbprojResolveAssemblyReference.cache
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\obj\Debug\Library.frmLibrary.resources
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\obj\Debug\Library.Resources.resources
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\obj\Debug\Library.vbproj.GenerateResource.Cache
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\obj\Debug\Library.xml
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\bin\Debug\Library.exe
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\bin\Debug\Library.pdb
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\bin\Debug\Library.xml
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\obj\Debug\Library.exe
+D:\Locker\Files\Projects\CP II\VB.NET\Library\Library\Library\obj\Debug\Library.pdb
